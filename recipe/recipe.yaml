@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.10"
-  version: "3.3.0.20260903"
+  version: "3.3.0.20261006"
 
 package:
   name: types-geojson
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-geojson/types_geojson-${{ version }}.tar.gz
-  sha256: 624665224b3750d75355390b27f3c6d6512de7917cebb94d2420de357ffff925
+  sha256: cbb397341a9f3c6af716f0c93c4a0ccb08aebc41444bd1fbd86763e5cdfbe5fb
 
 build:
   number: 0
